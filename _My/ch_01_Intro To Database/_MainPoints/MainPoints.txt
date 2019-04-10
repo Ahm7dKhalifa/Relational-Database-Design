@@ -1,0 +1,75 @@
+
+
+========================================
+1.what is databse ?
+========================================
+#Courses/Pluralsight_Relational_Database_Design/Slides1
+#Courses/Course_DR_Moh_Eldosokey/ch1-->p5
+#Books/Fundamentals of Database Systems--> p35
+
+==========================================
+2.what is DBMS ? and its functions ?
+==========================================
+#Books/Fundamentals of Database Systems--> p37
+#Courses/Course_DR_Moh_Eldosokey/ch1-->p6
+
+
+==========================================
+3.-traditional file processing vs database approach
+  -The main characteristics of the database approach versus the
+file-processing approach are the following:
+==========================================
+#Books/Fundamentals of Database Systems--> p37
+#Courses/Course_DR_Moh_Eldosokey/ch1-->p6
+#Courses/Pluralsight_Relational_Database_Design/Slides1
+#q/a
+1-https://www.youtube.com/watch?v=AWaAWewoCEQ
+==========================================
+4.Actors on the Scene
+==========================================
+#Books/Fundamentals of Database Systems--> p46
+
+==========================================
+5.- what is different types of databse ?
+  - A Brief History of Database Applications
+==========================================
+#Books/Fundamentals of Database Systems--> p54
+
+==========================================
+6.what is Relational Database ?
+==========================================
+#Courses/Pluralsight_Relational_Database_Design/Slides1
+#q/a
+1-https://searchdatamanagement.techtarget.com/definition/relational-database
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
