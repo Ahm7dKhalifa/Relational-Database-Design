@@ -1,0 +1,80 @@
+
+
+========================================
+1.Data Models , Data abstraction
+========================================
+#Books/Fundamentals of Database Systems--> p63
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p4,5
+==========================================
+2.Categories of Data Models With Examples
+==========================================
+#Books/Fundamentals of Database Systems--> p64
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p6
+
+==========================================
+3.Schemas, Instances, and Database State
+==========================================
+#Books/Fundamentals of Database Systems--> p65
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p10
+
+==========================================
+4.Three-Schema Architecture
+==========================================
+#Books/Fundamentals of Database Systems--> p67
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p14
+
+==========================================
+5.Data Independence
+==========================================
+#Books/Fundamentals of Database Systems--> p68
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p16
+
+==========================================
+6.Database Languages and Interfaces
+==========================================
+#Books/Fundamentals of Database Systems--> p69
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p17
+
+
+==========================================
+7.The Database System Environment(Component Modules)
+==========================================
+#Books/Fundamentals of Database Systems--> p73
+
+
+
+==========================================
+8.Database System Utilities
+==========================================
+#Books/Fundamentals of Database Systems--> p76
+
+==========================================
+9.Centralized and Client/Server
+  Architectures for DBMSs
+==========================================
+#Books/Fundamentals of Database Systems--> p77
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p26
+
+==========================================
+10.Classification of Database Management Systems
+==========================================
+#Books/Fundamentals of Database Systems--> p82
+*1- Classification
+1-based on data model
+2-based on the number of users supported by the system
+3-based on number of sites
+4-based on cost
+*2-definations of data models
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
