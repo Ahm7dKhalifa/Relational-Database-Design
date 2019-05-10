@@ -1,0 +1,93 @@
+
+
+========================================
+1.what is ER Model
+========================================
+#Books/Fundamentals of Database Systems--> p90
+#Courses/Course_DR_Moh_Eldosokey/ch2-->p4,5
+
+==========================================
+2.A simplified diagram to illustrate the main phases of database design.
+==========================================
+#Books/Fundamentals of Database Systems--> p92
+
+==========================================
+3.The conceptual schema
+==========================================
+#Books/Fundamentals of Database Systems--> p93
+
+==========================================
+4.logical design or data model mapping
+==========================================
+#Books/Fundamentals of Database Systems--> p93
+
+==========================================
+5.A Sample Database Application --> company
+==========================================
+#Books/Fundamentals of Database Systems--> p94
+
+==========================================
+6.what is entity , attributes
+==========================================
+#Books/Fundamentals of Database Systems--> p94
+
+==========================================
+7.Several types of attributes occur in the ER model
+==========================================
+#Books/Fundamentals of Database Systems--> p96
+
+==========================================
+8.Entity Types, Entity Sets, Keys, and Value Sets
+==========================================
+#Books/Fundamentals of Database Systems--> p98
+
+==========================================
+9.Initial Conceptual Design of the COMPANY Database
+==========================================
+#Books/Fundamentals of Database Systems--> p101
+
+==========================================
+10.what is - Relationship 
+             - The Degreee of Relationship 
+             - Relationship Types,
+             - Relationship Sets,
+             - Roles 
+             - Structural Constraints
+==========================================
+#Books/Fundamentals of Database Systems--> p103
+
+==========================================
+11.what is Constraints on Binary Relationship Types
+   - Cardinality Ratios for Binary Relationships.
+   - Participation Constraints and Existence Dependencies
+==========================================
+#Books/Fundamentals of Database Systems--> p107
+
+==========================================
+12.Attributes of Relationship Types
+==========================================
+#Books/Fundamentals of Database Systems--> p109
+
+
+==========================================
+13.Weak Entity Types
+==========================================
+#Books/Fundamentals of Database Systems--> p110
+
+
+===========================================
+14.Refining the ER Design for the COMPANY Database
+===========================================
+#Books/Fundamentals of Database Systems--> p111
+#Books/Fundamentals of Database Systems--> p95
+
+
+===========================================
+15.Summary of the notation for ER diagrams.
+===========================================
+#Books/Fundamentals of Database Systems--> p114
+
+============================================
+16.Alternative Notations for ER Diagrams
+============================================
+#Books/Fundamentals of Database Systems--> p115
