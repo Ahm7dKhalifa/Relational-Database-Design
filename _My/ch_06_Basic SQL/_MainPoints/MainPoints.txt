@@ -1,0 +1,180 @@
+#b1 --> Fundamentals of Database Systems (7th edition) book
+
+========================================
+1.What Is SQL ?
+========================================
+#b1 --> 178
+#q/a folder
+
+==========================================
+2.SQL Data Definition
+==========================================
+#b1 --> 179
+
+==========================================
+3.Schema and Catalog Concepts in SQL
+==========================================
+#b1 --> 179,180
+
+==========================================
+4.The CREATE TABLE Command in SQL
+==========================================
+#b1 -->180
+- used for
+- how to define The attributes
+- base relations vs virtual relations
+- examples if common errors that generated with foreign keys
+when we create tables
+==========================================
+5.Attribute Data Types ( built-in && domain )
+==========================================
+#b1 -->182
+- The basic data types
+  - number : integer , float , decimal
+  - string : 
+  	- fixed length and varying length
+           - single quotation marks
+           - case sensitive
+           - padded with blank characters for fixedlength
+           - comparison of strings
+	- concatenation operator
+           - CLOB
+  - bit string :
+	- fixed length vs varying length
+	- single quotes but preceded by a B example
+	- BLOB
+   - boolean :
+	- three-valued logic : True , False , Unknown
+   - Date and Time :
+	- date formmat
+	- time format
+	- valid date and time with sql implementation
+	- Literal values are represented by single-quoted strings
+              preceded by the keyword DATE or TIME;
+            - A TIME WITH TIME ZONE data
+	 - string vs Date and Time
+==========================================
+6.Domains in SQL
+==========================================
+- CREATE DOMAIN
+- CREATE TYPE
+
+==========================================
+7.Specifying Constraints in SQL(examples of Constraints)
+==========================================
+#b1 --> 215
+
+==========================================
+8.Specifying Attribute Domain Constraints and Attribute Defaults
+==========================================
+#b1 --> 184
+- NULLs vs NOT NULLs
+- DEFAULT <value>
+- CHECK clause
+
+==========================================
+9.Specifying Key and Referential Integrity Constraints
+==========================================
+#B1 --> 186
+- PRIMARY KEY
+	- with one or more Attribute 
+- UNIQUE
+- FOREIGN KEY
+	- The default action that SQL takes for an integrity violation
+	   ( RESTRICT option )
+	- an alternative action to be taken by attaching 
+	   a referential triggered action clause to any foreign key constraint :
+		- The options include SET NULL, CASCADE, and SET DEFAULT.
+		- The option must be qualified with either ON DELETE or ON UPDATE
+		- SET NULL , SET DEFAULT with ON DELETE , ON UPDATE
+		- SET CASCADE with ON DELETE , ON UPDATE
+
+==========================================
+10.Giving Names to Constraints
+==========================================
+#b1 --> 187
+- optional
+- must be unique
+- used for
+==========================================
+11.examples :
+==========================================
+#b1 --> 181
+#b1 --> 185
+
+==========================================
+12.Basic Retrieval Queries in SQL
+==========================================
+#b1 --> 187
+- The SELECT-FROM-WHERE Structure of Basic SQL Queries :
+	- comparison operators
+	- selection condition vs join condition
+	- a select-project-join query.
+
+==========================================
+13.Ambiguous Attribute Names, Aliasing, Renaming, and Tuple Variables
+==========================================
+#b1 --> 191
+- Ambiguous Reason
+- Prefixing
+- Rename Table or Aliases
+- renaming with where
+
+===========================================
+14.Tables as Sets in SQL
+===========================================
+#b1 --> 191
+- REASONS TO SQL usually treats a table not as a set but rather as a multiset
+- DISTINCT , ALL
+===========================================
+15.Substring Pattern Matching and Arithmetic Operators
+============================================
+#b1 --> 195
+- LIKE , % , _
+- escape character \ --> % , _
+- arithmetic in queries WITH numeric values or attributes
+- BETWEEN
+=============================================
+16.Ordering of Query Results
+=============================================
+#b1 --> 195
+- ORDER BY 
+	- with one or more attr
+	- The default order
+	- ASC , DESC
+
+================================================
+17.The INSERT Command
+================================================
+#b1 --> 198
+- used for :
+- first form : insert with all attr
+- second form : insert with some attr
+	- the values must include all attributes with NOT NULL specification and no default value
+- insert command with integrity constraints problems
+- third form : insert by select to inserts multiple tuples
+- bulk loading tools
+- program to read each record in the file ( loop with insert)
+- CREATE new TABLE , ( create table by select ) so :
+	- new table is a same structure of another table.
+	- insert multi tuples from the old table to the new table 
+              by select query  
+
+==================================================
+18.The DELETE Command
+================================================
+#b1 --> 200
+- first form : delete with where
+- second form : delete all
+- delete vs drop
+
+
+==================================================
+18.The UPDATE Command
+================================================
+#b1 --> 200
+- first form : update with where
+- second form : update all
+
+
+
