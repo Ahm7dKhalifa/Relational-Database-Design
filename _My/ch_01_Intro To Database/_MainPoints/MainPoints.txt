@@ -1,39 +1,46 @@
 
 
 ========================================
-1.what is databse ?
+1.what is database ?
 ========================================
-#Courses/Pluralsight_Relational_Database_Design/Slides1
-#Courses/Course_DR_Moh_Eldosokey/ch1-->p5
-#Books/Fundamentals of Database Systems--> p35
+#resources :
+1- Courses/Pluralsight_Relational_Database_Design/Slides1
+2- Courses/Course_DR_Moh_Eldosokey/ch1-->p5
+3- Books/Fundamentals of Database Systems--> p35
 
 ==========================================
-2.what is DBMS ? and its functions ?
+2.what is DBMS ? 
+  - and its functions ?
+  - and its Advantages ?
 ==========================================
-#Books/Fundamentals of Database Systems--> p37
-#Courses/Course_DR_Moh_Eldosokey/ch1-->p6
+1- Books/Fundamentals of Database Systems--> p37
+2- Courses/Course_DR_Moh_Eldosokey/ch1-->p6
+3- https://www.javatpoint.com/dbms-tutorial
 
 
 ==========================================
-3.-traditional file processing vs database approach
-  -The main characteristics of the database approach versus the
-file-processing approach are the following:
+3.traditional file processing vs database approach
 ==========================================
-#Books/Fundamentals of Database Systems--> p37
-#Courses/Course_DR_Moh_Eldosokey/ch1-->p6
-#Courses/Pluralsight_Relational_Database_Design/Slides1
-#q/a
-1-https://www.youtube.com/watch?v=AWaAWewoCEQ
-==========================================
-4.Actors on the Scene
-==========================================
-#Books/Fundamentals of Database Systems--> p46
+1- Books/Fundamentals of Database Systems--> p37
+2- Courses/Course_DR_Moh_Eldosokey/ch1-->p6
+3- Courses/Pluralsight_Relational_Database_Design/Slides1
+4- https://www.youtube.com/watch?v=AWaAWewoCEQ
 
 ==========================================
-5.- what is different types of databse ?
+4.- Actors on the Scene
+  - Workers behind the Scene
+==========================================
+#resources :
+1- Books/Fundamentals of Database Systems--> p46
+
+==========================================
+5.- what is different types of database ?
   - A Brief History of Database Applications
 ==========================================
-#Books/Fundamentals of Database Systems--> p54
+#resources :
+1- Books/Fundamentals of Database Systems--> p54
+2- https://www.includehelp.com/dbms/types-of-database-management-system.aspx
+3- https://www.javatpoint.com/types-of-databases
 
 ==========================================
 6.what is Relational Database ?
