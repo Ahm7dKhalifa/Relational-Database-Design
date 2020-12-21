@@ -1,25 +1,40 @@
 
 
 ========================================
-1.what is ER Model
+1.- what is ER Model ?
+  - what is Unified Modeling Language (UML)
 ========================================
-#Books/Fundamentals of Database Systems--> p90
-#Courses/Course_DR_Moh_Eldosokey/ch2-->p4,5
+#Resources :
+1- Books/Fundamentals of Database Systems--> p90
+
 
 ==========================================
-2.A simplified diagram to illustrate the main phases of database design.
+2.explain database design process : 
+  1- REQUIREMENTS COLLECTION AND ANALYSIS
+  2- CONCEPTUAL DESIGN
+  3- LOGICAL DESIGN
+  4- PHYSICAL DESIGN
 ==========================================
-#Books/Fundamentals of Database Systems--> p92
+#Resources :
+1- Books/Fundamentals of Database Systems--> p92
 
 ==========================================
-3.The conceptual schema
+3.what is entity ?
 ==========================================
-#Books/Fundamentals of Database Systems--> p93
+#Resources :
+1- Books/Fundamentals of Database Systems--> p94
 
 ==========================================
-4.logical design or data model mapping
-==========================================
-#Books/Fundamentals of Database Systems--> p93
+4.- what is attribute ?
+  - types of attributes occur in the ER model :
+        1- Composite versus Simple (Atomic) Attributes
+        2- Single-Valued versus Multivalued Attributes
+        3- Stored versus Derived Attributes
+        4- Complex Attributes
+  - Null Values For attributes
+=========================================='
+#Resources :
+1- Books/Fundamentals of Database Systems--> p94
 
 ==========================================
 5.A Sample Database Application --> company
