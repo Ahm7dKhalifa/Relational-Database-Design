@@ -32,69 +32,58 @@
         3- Stored versus Derived Attributes
         4- Complex Attributes
   - Null Values For attributes
+  - Key Attributes 
+       - what is a key Attribute
+       - a composite attribute 
+       - an entity type can have more than one key attribute
+       - an entity type may also have no key
+  - Value Sets (Domains) of Attributes
 =========================================='
 #Resources :
 1- Books/Fundamentals of Database Systems--> p94
 
 ==========================================
-5.A Sample Database Application --> company
-==========================================
-#Books/Fundamentals of Database Systems--> p94
-
-==========================================
-6.what is entity , attributes
-==========================================
-#Books/Fundamentals of Database Systems--> p94
-
-==========================================
-7.Several types of attributes occur in the ER model
-==========================================
-#Books/Fundamentals of Database Systems--> p96
-
-==========================================
-8.Entity Types, Entity Sets, Keys, and Value Sets
-==========================================
-#Books/Fundamentals of Database Systems--> p98
-
-==========================================
-9.Initial Conceptual Design of the COMPANY Database
-==========================================
-#Books/Fundamentals of Database Systems--> p101
-
-==========================================
-10.what is - Relationship 
-             - The Degreee of Relationship 
-             - Relationship Types,
-             - Relationship Sets,
-             - Roles 
-             - Structural Constraints
+5.what is    - Relationship 
+             - The Degreee of Relationship : binary Relationship , ternary Relationship 
+             - Recursive Relationships
+             - Role Names
+             - Constraints on Binary Relationship Types :
+                1- Cardinality Ratios (Max) : what is it ? Types ?
+                2- Participation Constraints (Min): what is it ?  Types ?
+             - Attributes of Relationship Types :
+                - where will be Attributes of Relationship Type ( 1 : 1 )
+                - where will be Attributes of Relationship Type ( 1 : N )
+                - where will be Attributes of Relationship Type ( N : M )
 ==========================================
 #Books/Fundamentals of Database Systems--> p103
 
 ==========================================
-11.what is Constraints on Binary Relationship Types
-   - Cardinality Ratios for Binary Relationships.
-   - Participation Constraints and Existence Dependencies
+6.Weak Entity Types
+   - what is it ?
+   - what is identifying relationship ? constraint types of it ?  
+   - PARTIAL KEY ?
 ==========================================
-#Books/Fundamentals of Database Systems--> p107
-
-==========================================
-12.Attributes of Relationship Types
-==========================================
-#Books/Fundamentals of Database Systems--> p109
-
-
-==========================================
-13.Weak Entity Types
-==========================================
-#Books/Fundamentals of Database Systems--> p110
+#Resources 
+1-Books/Fundamentals of Database Systems--> p110
 
 
 ===========================================
-14.Refining the ER Design for the COMPANY Database
+7.Proper Naming of Schema Constructs
+   - Design Choices for ER Conceptual Design
 ===========================================
-#Books/Fundamentals of Database Systems--> p111
-#Books/Fundamentals of Database Systems--> p95
+#resources :
+1- Books/Fundamentals of Database Systems--> p110
+
+==========================================
+very important to raed A ll stage of design company database in this chapter
+==========================================
+
+
+
+
+
+
+
 
 
 ===========================================
