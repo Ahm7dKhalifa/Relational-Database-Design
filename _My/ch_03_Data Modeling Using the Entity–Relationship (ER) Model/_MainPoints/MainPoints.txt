@@ -68,8 +68,9 @@
 
 
 ===========================================
-7.Proper Naming of Schema Constructs
-   - Design Choices for ER Conceptual Design
+7.- Proper Naming of Schema Constructs
+  - Design Choices for ER Conceptual Design
+  - Summary of the notations for ER diagrams.
 ===========================================
 #resources :
 1- Books/Fundamentals of Database Systems--> p110
