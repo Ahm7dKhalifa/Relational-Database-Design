@@ -1,0 +1,4 @@
+1- https://www.guru99.com/relational-data-model-dbms.html
+2- https://infolab.usc.edu/csci585/Spring2010/Docs/Session3-b.pdf
+3- https://www.cs.purdue.edu/homes/bb/cs448_Fall2017/lecture-files/pdf/ch05-The%20Relational%20Data%20Model%20and%20Relational%20Database%20Constraints.pdf
+4- book : FundamentsOfDatabaseSystems
