@@ -17,12 +17,19 @@
 
 ==========================================
 3.Characteristics of Relations
+  - Order Of tuples
+  - Order Of Attributes
+  - Values and NULLs in the Tuples
+     - atomic
+     - Null Value Meaning
 ==========================================
 
 ==========================================
 4.Relational Integrity Constraints
   - Domain Constraints
   - Key Constraints
+       - Key Vs SuperKeys
+       - Primary Key vs Candidate Keys
   - Entity integrity constraints
   - Referential Integrity Constraints
 ==========================================
