@@ -3,43 +3,43 @@
 ========================================
 1.What Is SQL ?
 ========================================
-#resources :
-1- b1 --> 178
+#b1 --> 178
+#q/a folder
 
-#####################################################################
-#####################################################################
-First Part : SQL Data Definition
-#####################################################################
-#####################################################################
+#################################################################
+#################################################################
+SQL Data Definition
+#################################################################
+#################################################################
 
 ==========================================
-2.Using Of CREATE Command in SQL Data Definition 
+2.SQL Data Definition Using CREATE Command
 ==========================================
-#resources :
+#Resources :
 1- b1 --> 179
 
 ==========================================
-3.The CREATE DATABASE Command
-  - Syntax
-  - Schema and Catalog Concepts in SQL
+3. - Create Database Syntax
+   - Schema and Catalog Concepts in SQL
 ==========================================
-#resources:
+#Resources :
 1- b1 --> 179,180
 
 ==========================================
-4.The CREATE TABLE Command 
-- Syntax
+4.The CREATE TABLE Syntax
 - how to define The attributes
 - base relations vs virtual relations
 - examples if common errors that generated with foreign keys when we create tables
 ==========================================
-#resources :
+#Resources :
 1- b1 -->180
 
-
+@@@@@@@@@@@@@@@@@@@@@@@@@
+Attribute Data Types
+@@@@@@@@@@@@@@@@@@@@@@@@@
 ==========================================
 5.Attribute Data Types ( built-in && domain )
-1 - The basic ( built-in ) data types :
+1- The built-in ( basic ) data types
   - number : integer , float , decimal
   - string : 
   	- fixed length and varying length
@@ -48,7 +48,7 @@ First Part : SQL Data Definition
            - padded with blank characters for fixedlength
            - comparison of strings
 	- concatenation operator
-           - CLOB
+        - CLOB
   - bit string :
 	- fixed length vs varying length
 	- single quotes but preceded by a B example
@@ -56,65 +56,78 @@ First Part : SQL Data Definition
    - boolean :
 	- three-valued logic : True , False , Unknown
    - Date and Time :
-	- date formmat
+	- date format
 	- time format
 	- valid date and time with sql implementation
-	- Literal values are represented by single-quoted strings
-              preceded by the keyword DATE or TIME;
-            - A TIME WITH TIME ZONE data
-	 - string vs Date and Time
-2- Domains ( Custom Data Types ) :
-	- CREATE DOMAIN
-	- CREATE TYPE
+	- Literal values are represented by single-quoted strings preceded by the keyword DATE or TIME;
+        - A TIME WITH TIME ZONE data
+	- string as Date and Time
+2- Domains ( Custom Datatypes ) 
+- CREATE DOMAIN
+- CREATE TYPE
 ==========================================
-#resources :
+#Resources :
 1- b1 -->182
 
-
-
+@@@@@@@@@@@@@@@
+Constraints
+@@@@@@@@@@@@@@@
 ==========================================
 6.Specifying Constraints in SQL
-    1- Specifying Attribute Domain Constraints and Attribute Defaults
+  1- Specifying Attribute Domain Constraints and Attribute Defaults
         - DEFAULT <value>
-        - NULLs vs NOT NULLs
+	- NULLs vs NOT NULLs
         - CHECK clause
-    2- Specifying Key and Referential Integrity Constraints
-	- PRIMARY KEY ( Primary Key )
-	     - with one or more Attribute 
-	- UNIQUE ( Candidates Key )
+  2- Specifying Key and Referential Integrity Constraints
+	- PRIMARY KEY ( Main Key )
+		- with one or more Attribute 
+	- UNIQUE ( Candidate Keys )
 	- FOREIGN KEY
-		- The default action that SQL takes for an integrity violation ( RESTRICT option )
-		- an alternative action to be taken by attaching a referential triggered action clause to any foreign key constraint :
+		- The default action that SQL takes for an integrity violation :
+	   	          ( RESTRICT option )
+		- an alternative actions to be taken by attaching a referential triggered action clause to any foreign key constraint :
 			- The options include SET NULL, CASCADE, and SET DEFAULT.
 			- The option must be qualified with either ON DELETE or ON UPDATE
 			- SET NULL , SET DEFAULT with ON DELETE , ON UPDATE
 			- SET CASCADE with ON DELETE , ON UPDATE
-    3- Giving Names to Constraints : 
-        - optional
-	- must be unique
-	- used for
 ==========================================
 #resources :
-1- b1 --> 184,215
-
+1- b1 --> 215
 
 ==========================================
-12.Basic Retrieval Queries in SQL
+7.Giving Names to Constraints
+- optional
+- must be unique
+- used for
+==========================================
+#resources :
+1- b1 --> 187
+
+#################################################################
+#################################################################
+SQL Data Retrieval 
+#################################################################
+#################################################################
+
+==========================================
+8.Basic Retrieval Query in SQL ( SELECT-FROM-WHERE Structure )
+     - With One Table :
+            -  projection attributes
+     - With Two Table :
+            -  selection condition vs join condition
 ==========================================
 #b1 --> 187
-- The SELECT-FROM-WHERE Structure of Basic SQL Queries :
-	- comparison operators
-	- selection condition vs join condition
-	- a select-project-join query.
+
 
 ==========================================
-13.Ambiguous Attribute Names, Aliasing, Renaming, and Tuple Variables
+9.Ambiguous Bwtween Attribute Names In Different Tables
+    - Ambiguous Reasons ?
+    - Ambiguous Sol :
+    	- Prefixing Using Relation or Table Name
+    	- Rename Table or Aliases Using AS Keyword
 ==========================================
 #b1 --> 191
-- Ambiguous Reason
-- Prefixing
-- Rename Table or Aliases
-- renaming with where
+
 
 ===========================================
 14.Tables as Sets in SQL
