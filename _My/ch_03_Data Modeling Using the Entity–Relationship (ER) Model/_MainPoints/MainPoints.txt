@@ -10,10 +10,6 @@
 
 ==========================================
 2.explain database design process : 
-  1- REQUIREMENTS COLLECTION AND ANALYSIS
-  2- CONCEPTUAL DESIGN
-  3- LOGICAL DESIGN
-  4- PHYSICAL DESIGN
 ==========================================
 #Resources :
 1- Books/Fundamentals of Database Systems--> p92
@@ -26,17 +22,13 @@
 
 ==========================================
 4.- what is attribute ?
-  - types of attributes occur in the ER model :
-        1- Composite versus Simple (Atomic) Attributes
-        2- Single-Valued versus Multivalued Attributes
-        3- Stored versus Derived Attributes
-        4- Complex Attributes
-  - Null Values For attributes
-  - Key Attributes 
+  - types of attributes occur in the ER model ?
+   - Key Attributes 
        - what is a key Attribute
        - a composite attribute 
        - an entity type can have more than one key attribute
        - an entity type may also have no key
+  - Null Values For attributes
   - Value Sets (Domains) of Attributes
 =========================================='
 #Resources :
@@ -55,7 +47,8 @@
                 - where will be Attributes of Relationship Type ( 1 : N )
                 - where will be Attributes of Relationship Type ( N : M )
 ==========================================
-#Books/Fundamentals of Database Systems--> p103
+#Resources :
+1- Books/Fundamentals of Database Systems--> p103
 
 ==========================================
 6.Weak Entity Types
@@ -76,23 +69,6 @@
 1- Books/Fundamentals of Database Systems--> p110
 
 ==========================================
-very important to raed A ll stage of design company database in this chapter
+very important to read All stage of design company database in this chapter
 ==========================================
 
-
-
-
-
-
-
-
-
-===========================================
-15.Summary of the notation for ER diagrams.
-===========================================
-#Books/Fundamentals of Database Systems--> p114
-
-============================================
-16.Alternative Notations for ER Diagrams
-============================================
-#Books/Fundamentals of Database Systems--> p115

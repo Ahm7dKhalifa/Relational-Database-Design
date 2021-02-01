@@ -56,8 +56,7 @@
 1- Books/Fundamentals of Database Systems--> p73
 
 ==========================================
-6.Centralized and Client/Server
-  Architectures for DBMS
+6.Centralized and Client/Server Architectures for DBMS
   - Centralized Architecture:
  	- Explain General Overview 
   - Client/Server Architecture:
@@ -70,14 +69,15 @@
 
 ==========================================
 7.Classification of Database Management Systems
-==========================================
-#resources :
-1- Books/Fundamentals of Database Systems--> p82
-*1- Classification
 1-based on data model
 2-based on the number of users supported by the system
 3-based on number of sites : - Homogeneous vs Heterogeneous
 4-based on cost
+==========================================
+#resources :
+1- Books/Fundamentals of Database Systems--> p82
+
+
 
 ==========================================
 11.

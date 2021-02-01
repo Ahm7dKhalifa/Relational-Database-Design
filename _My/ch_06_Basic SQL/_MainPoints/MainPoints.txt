@@ -13,58 +13,41 @@ SQL Data Definition
 #################################################################
 
 ==========================================
-2.SQL Data Definition Using CREATE Command
+2.Database Elements That Created Using : CREATE Command
 ==========================================
 #Resources :
 1- b1 --> 179
 
 ==========================================
 3. - Create Database Syntax
-   - Schema and Catalog Concepts in SQL
+   - Schema and Catalog Concepts in SQL ( What Is Mean By Schema and Catalog ) 
 ==========================================
 #Resources :
 1- b1 --> 179,180
 
 ==========================================
-4.The CREATE TABLE Syntax
-- how to define The attributes
-- base relations vs virtual relations
-- examples if common errors that generated with foreign keys when we create tables
+4.- CREATE TABLE Syntax
+  - how to define The attributes
+  - base relations vs virtual relations
+  - examples if common errors that generated with foreign keys when we create tables
 ==========================================
 #Resources :
 1- b1 -->180
 
-@@@@@@@@@@@@@@@@@@@@@@@@@
-Attribute Data Types
-@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@
+Attributes
+@@@@@@@@@@@@@@@
 ==========================================
 5.Attribute Data Types ( built-in && domain )
 1- The built-in ( basic ) data types
-  - number : integer , float , decimal
+  - number : 
   - string : 
-  	- fixed length and varying length
-           - single quotation marks
-           - case sensitive
-           - padded with blank characters for fixedlength
-           - comparison of strings
-	- concatenation operator
-        - CLOB
   - bit string :
-	- fixed length vs varying length
-	- single quotes but preceded by a B example
-	- BLOB
-   - boolean :
-	- three-valued logic : True , False , Unknown
-   - Date and Time :
-	- date format
-	- time format
-	- valid date and time with sql implementation
-	- Literal values are represented by single-quoted strings preceded by the keyword DATE or TIME;
-        - A TIME WITH TIME ZONE data
-	- string as Date and Time
+  - boolean :
+  - Date and Time :
 2- Domains ( Custom Datatypes ) 
-- CREATE DOMAIN
-- CREATE TYPE
+- CREATE DOMAIN Syntax
+- CREATE TYPE Syntax
 ==========================================
 #Resources :
 1- b1 -->182
@@ -82,12 +65,13 @@ Constraints
 	- PRIMARY KEY ( Main Key )
 		- with one or more Attribute 
 	- UNIQUE ( Candidate Keys )
-	- FOREIGN KEY
-		- The default action that SQL takes for an integrity violation :
-	   	          ( RESTRICT option )
-		- an alternative actions to be taken by attaching a referential triggered action clause to any foreign key constraint :
-			- The options include SET NULL, CASCADE, and SET DEFAULT.
-			- The option must be qualified with either ON DELETE or ON UPDATE
+	- FOREIGN KEY :
+               - Actions That Can Taken When an integrity violation Occure: 
+			- RESTRICT option : Default Action
+                	- SET NULL
+                	- SET DEFAULT
+                	- CASCADE
+	       - The option must be qualified with either ON DELETE or ON UPDATE
 			- SET NULL , SET DEFAULT with ON DELETE , ON UPDATE
 			- SET CASCADE with ON DELETE , ON UPDATE
 ==========================================
@@ -106,7 +90,7 @@ Constraints
 #################################################################
 #################################################################
 SQL Data Retrieval 
-#################################################################
+################ #################################################
 #################################################################
 
 ==========================================
@@ -116,6 +100,7 @@ SQL Data Retrieval
      - With Two Table :
             -  selection condition vs join condition
 ==========================================
+#resources :
 #b1 --> 187
 
 
@@ -126,42 +111,58 @@ SQL Data Retrieval
     	- Prefixing Using Relation or Table Name
     	- Rename Table or Aliases Using AS Keyword
 ==========================================
+#resources :
 #b1 --> 191
 
 
 ===========================================
-14.Tables as Sets in SQL
+10.- Unspecified WHERE Clause : Retrun All Rows
+   - Use of the Asterisk : Return All Columns Of The Relations
+   - CROSS PRODUCT : When more than one relation is specified in the FROM clause 
 ===========================================
-#b1 --> 191
-- REASONS TO SQL usually treats a table not as a set but rather as a multiset
-- DISTINCT , ALL
+#resources :
+1- b1 --> 192
+
 ===========================================
-15.Substring Pattern Matching and Arithmetic Operators
+11.- What Is Mean By Table As Multi-Set ?
+   - reasons of SQL does not automatically eliminate duplicate tuples :
+   - DISTINCT and ALL Keywords
+   - UNION , EXCEPT , INTERSECT Keywords
+===========================================
+#resources :
+1- b1 --> 193
+
+===========================================
+12.String and Arithmetic Operators
+- String Operators :
+	- LIKE Keyword With % , _
+	- escape character \ 
+        - concatenate operator || 
+- Arithmetic Operators
+        - + , - , * , /
+        - ( BETWEEN -- AND -- ) Keywords
 ============================================
-#b1 --> 195
-- LIKE , % , _
-- escape character \ --> % , _
-- arithmetic in queries WITH numeric values or attributes
-- BETWEEN
+#resources :
+1- b1 --> 195
+
 =============================================
-16.Ordering of Query Results
+13.Ordering of Query Results
+	- ORDER BY Keyword 
+		- with one or more attr
+		- The default order
+		- ASC , DESC Keyword
 =============================================
-#b1 --> 195
-- ORDER BY 
-	- with one or more attr
-	- The default order
-	- ASC , DESC
+#resources :
+1- b1 --> 197
 
 ================================================
-17.The INSERT Command
-================================================
-#b1 --> 198
+14.The INSERT Command
 - used for :
 - first form : insert with all attr
 - second form : insert with some attr
 	- the values must include all attributes with NOT NULL specification and no default value
-- insert command with integrity constraints problems
 - third form : insert by select to inserts multiple tuples
+- insert command with integrity constraints problems
 - bulk loading tools
 - program to read each record in the file ( loop with insert)
 - CREATE new TABLE , ( create table by select ) so :
@@ -169,21 +170,28 @@ SQL Data Retrieval
 	- insert multi tuples from the old table to the new table 
               by select query  
 
-==================================================
-18.The DELETE Command
 ================================================
-#b1 --> 200
+#resources :
+1- b1 --> 198
+
+==================================================
+15.The DELETE Command
 - first form : delete with where
 - second form : delete all
 - delete vs drop
+================================================
+#resources :
+1- b1 --> 200
+
 
 
 ==================================================
-18.The UPDATE Command
-================================================
-#b1 --> 200
+16.The UPDATE Command
 - first form : update with where
 - second form : update all
+================================================
+#resources :
+1- b1 --> 200
 
 
 

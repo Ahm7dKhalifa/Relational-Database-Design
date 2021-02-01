@@ -45,9 +45,10 @@
 ==========================================
 6.what is Relational Database ?
 ==========================================
+#resources :
 #Courses/Pluralsight_Relational_Database_Design/Slides1
-#q/a
-1-https://searchdatamanagement.techtarget.com/definition/relational-database
+1- https://searchdatamanagement.techtarget.com/definition/relational-database
+
 ==========================================
 7.
 ==========================================
