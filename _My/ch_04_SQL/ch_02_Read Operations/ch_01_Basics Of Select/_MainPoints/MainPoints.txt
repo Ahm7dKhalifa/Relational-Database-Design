@@ -1,0 +1,70 @@
+#b1 --> Fundamentals of Database Systems (7th edition) book
+
+######################################################################
+#####################################################################
+Read Operations
+#####################################################################
+#####################################################################
+
+==========================================
+1.Basic Retrieval Query in SQL ( SELECT-FROM-WHERE Structure )
+     - With One Table :
+            -  projection attributes
+     - With Two Table :
+            -  selection condition vs join condition
+==========================================
+#resources :
+#b1 --> 187
+
+
+==========================================
+2.Ambiguous Bwtween Attribute Names In Different Tables
+    - Ambiguous Reasons ?
+    - Ambiguous Sol :
+    	- Prefixing Using Relation or Table Name
+    	- Rename Table or Aliases Using AS Keyword
+==========================================
+#resources :
+#b1 --> 191
+
+
+===========================================
+3.- Unspecified WHERE Clause : Retrun All Rows
+   - Use of the Asterisk : Return All Columns Of The Relations
+   - CROSS PRODUCT : When more than one relation is specified in the FROM clause 
+===========================================
+#resources :
+1- b1 --> 192
+
+===========================================
+4.- What Is Mean By Table As Multi-Set ?
+   - reasons of SQL does not automatically eliminate duplicate tuples :
+   - DISTINCT and ALL Keywords
+   - UNION , EXCEPT , INTERSECT Keywords
+===========================================
+#resources :
+1- b1 --> 193
+
+===========================================
+5.String and Arithmetic Operators
+- String Operators :
+	- LIKE Keyword With % , _
+	- escape character \ 
+        - concatenate operator || 
+- Arithmetic Operators
+        - + , - , * , /
+        - ( BETWEEN -- AND -- ) Keywords
+============================================
+#resources :
+1- b1 --> 195
+
+=============================================
+6.Ordering of Query Results
+	- ORDER BY Keyword 
+		- with one or more attr
+		- The default order
+		- ASC , DESC Keyword
+=============================================
+#resources :
+1- b1 --> 197
+

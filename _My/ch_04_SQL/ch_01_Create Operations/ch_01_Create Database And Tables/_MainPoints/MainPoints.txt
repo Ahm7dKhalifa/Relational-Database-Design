@@ -1,0 +1,92 @@
+#b1 --> Fundamentals of Database Systems (7th edition) book
+
+========================================
+1.What Is SQL ?
+========================================
+#b1 --> 178
+#q/a folder
+
+#################################################################
+#################################################################
+Create Operations
+#################################################################
+#################################################################
+
+==========================================
+2.Database Elements That Created Using : CREATE Command
+==========================================
+#Resources :
+1- b1 --> 179
+
+==========================================
+3. - Create Database Syntax
+   - Schema and Catalog Concepts in SQL ( What Is Mean By Schema and Catalog ) 
+==========================================
+#Resources :
+1- b1 --> 179,180
+
+==========================================
+4.- CREATE TABLE Syntax
+  - how to define The attributes
+  - base relations vs virtual relations
+  - examples if common errors that generated with foreign keys when we create tables
+==========================================
+#Resources :
+1- b1 -->180
+
+@@@@@@@@@@@@@@@
+Attributes
+@@@@@@@@@@@@@@@
+==========================================
+5.Attribute Data Types ( built-in && domain )
+1- The built-in ( basic ) data types
+  - number : 
+  - string : 
+  - bit string :
+  - boolean :
+  - Date and Time :
+2- Domains ( Custom Datatypes ) 
+- CREATE DOMAIN Syntax
+- CREATE TYPE Syntax
+==========================================
+#Resources :
+1- b1 -->182
+
+@@@@@@@@@@@@@@@
+Constraints
+@@@@@@@@@@@@@@@
+==========================================
+6.Specifying Constraints in SQL
+  1- Specifying Attribute Domain Constraints and Attribute Defaults
+        - DEFAULT <value>
+	- NULLs vs NOT NULLs
+        - CHECK clause
+  2- Specifying Key and Referential Integrity Constraints
+	- PRIMARY KEY ( Main Key )
+		- with one or more Attribute 
+	- UNIQUE ( Candidate Keys )
+	- FOREIGN KEY :
+               - Actions That Can Taken When an integrity violation Occure: 
+			- RESTRICT option : Default Action
+                	- SET NULL
+                	- SET DEFAULT
+                	- CASCADE
+	       - The option must be qualified with either ON DELETE or ON UPDATE
+			- SET NULL , SET DEFAULT with ON DELETE , ON UPDATE
+			- SET CASCADE with ON DELETE , ON UPDATE
+==========================================
+#resources :
+1- b1 --> 215
+
+==========================================
+7.Giving Names to Constraints
+- optional
+- must be unique
+- used for
+==========================================
+#resources :
+1- b1 --> 187
+
+
+
+

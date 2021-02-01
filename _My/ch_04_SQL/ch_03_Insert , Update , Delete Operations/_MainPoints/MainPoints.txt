@@ -1,0 +1,47 @@
+#b1 --> Fundamentals of Database Systems (7th edition) book
+
+
+######################################################################
+#####################################################################
+Insert , Update , Delete Operations
+#####################################################################
+#####################################################################
+
+================================================
+1.The INSERT Command
+- used for :
+- first form : insert with all attr
+- second form : insert with some attr
+	- the values must include all attributes with NOT NULL specification and no default value
+- third form : insert by select to inserts multiple tuples
+- insert command with integrity constraints problems
+- bulk loading tools
+- program to read each record in the file ( loop with insert)
+- CREATE new TABLE , ( create table by select ) so :
+	- new table is a same structure of another table.
+	- insert multi tuples from the old table to the new table 
+              by select query  
+
+================================================
+#resources :
+1- b1 --> 198
+
+==================================================
+2.The DELETE Command
+- first form : delete with where
+- second form : delete all
+- delete vs drop
+================================================
+#resources :
+1- b1 --> 200
+
+==================================================
+3.The UPDATE Command
+- first form : update with where
+- second form : update all
+================================================
+#resources :
+1- b1 --> 200
+
+
+
