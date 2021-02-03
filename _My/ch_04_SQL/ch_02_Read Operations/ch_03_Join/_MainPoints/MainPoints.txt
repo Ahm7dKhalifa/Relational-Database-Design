@@ -1,0 +1,81 @@
+
+
+========================================
+1.what is join ?
+  - types of join 
+  - Join on three tables  
+  - Using WHERE with Join
+  - Using Group By with Join
+  - Order of execution of a Query
+========================================
+#resources :
+1- https://www.youtube.com/watch?v=wW4xcQ3FFp4
+2- https://www.sqlshack.com/a-step-by-step-walkthrough-of-sql-inner-join/
+3- https://sqlbolt.com/lesson/select_queries_order_of_execution
+4- https://www.youtube.com/watch?v=jd5ognD_4pc
+5- https://www.w3schools.com/sql/sql_join_inner.asp
+6- https://javarevisited.blogspot.com/2012/11/how-to-join-three-tables-in-sql-query-mysql-sqlserver.html#axzz6lPiW9Edt
+
+==========================================
+2.Best practices for the order of joined columns in a sql join?
+==========================================
+#resources :
+1- https://bertwagner.com/posts/does-the-join-order-of-my-tables-matter/
+2- https://www.sqlshack.com/learn-sql-join-multiple-tables/
+4- https://www.sqlshack.com/sql-multiple-joins-for-beginners-with-examples/
+
+==========================================
+3.using conditions in where clause or on clause join ?
+==========================================
+#resources :
+1- https://stackoverflow.com/questions/34349813/sql-join-condition-moved-to-with-where-clause-produces-differences
+2- https://dataschool.com/how-to-teach-people-sql/difference-between-where-and-on-in-sql/
+3- https://stackoverflow.com/questions/354070/sql-join-where-clause-vs-on-clause
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
