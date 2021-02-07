@@ -1,0 +1,91 @@
+
+
+========================================
+1.what is view ?
+ - SQL Syntax To : CREATE VIEW
+ - Types of Views
+ - SQL Syntax To : Updating a View
+ - SQL Syntax To : Dropping a View
+ - ( Insert - Update - Delete ) Data --> From View
+ - Indexes Views :
+       - When it created
+       - restriction and limitations when you create an indexed view.
+       - syntax 
+========================================
+#resources :
+1- https://www.youtube.com/watch?v=VQpmOmZO2mo
+
+2- 
+2.1 https://www.sqlshack.com/sql-view-a-complete-introduction-and-walk-through/
+2.2 https://www.sqlshack.com/sql-server-indexed-views/
+
+3- https://www.w3schools.com/sql/sql_view.asp
+
+4- 
+4.1 https://docs.microsoft.com/en-us/sql/relational-databases/views/views?view=sql-server-ver15
+4.2 https://docs.microsoft.com/en-us/sql/relational-databases/views/modify-data-through-a-view?view=sql-server-ver15
+4.3 https://docs.microsoft.com/en-us/sql/relational-databases/views/create-indexed-views?view=sql-server-ver15
+
+5- https://www.upgrad.com/blog/types-of-views-in-sql/
+6- https://www.datacamp.com/community/tutorials/views-in-sql
+7- https://www.geeksforgeeks.org/difference-between-simple-and-complex-view-in-sql/
+
+==========================================
+2.
+==========================================
+#resources :
+
+
+==========================================
+3.
+==========================================
+#resources :
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
