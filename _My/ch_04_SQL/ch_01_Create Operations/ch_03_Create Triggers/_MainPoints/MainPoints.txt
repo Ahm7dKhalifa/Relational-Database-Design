@@ -1,0 +1,84 @@
+
+
+========================================
+1.what is triggers ?
+  - types of triggers
+      - when every trigger is fire
+      - commands that used with every type
+  - syntax 
+  - Enabling and disabling triggers
+  - triggers order for same table or object
+      - default case with no order 
+      - how to set order of triggers
+  - “Virtual” tables for triggers: INSERTED and DELETED
+========================================
+#resources :
+1- https://www.youtube.com/watch?v=k0S4P-a6d5w
+2- https://www.sqlshack.com/triggers-in-sql-server/
+
+3. 
+3.1 https://www.sqlservertutorial.net/sql-server-triggers/
+3.2 https://www.sqlservertutorial.net/sql-server-triggers/sql-server-create-trigger/
+3.3 https://www.sqlservertutorial.net/sql-server-triggers/sql-server-instead-of-trigger/
+3.4 https://www.sqlservertutorial.net/sql-server-triggers/sql-server-ddl-trigger/
+
+4.https://blog.sqlauthority.com/2013/01/24/sql-server-use-instead-trigger/
+==========================================
+2.
+==========================================
+#resources :
+
+
+==========================================
+3.
+==========================================
+#resources :
+
+
+==========================================
+4.
+==========================================
+
+
+==========================================
+5.
+==========================================
+
+
+==========================================
+6.
+==========================================
+
+
+==========================================
+7.
+==========================================
+
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
