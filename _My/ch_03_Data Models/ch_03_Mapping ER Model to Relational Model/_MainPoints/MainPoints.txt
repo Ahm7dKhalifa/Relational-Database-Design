@@ -1,0 +1,92 @@
+b1 --> Fundamentals of Database Systems (7th edition)
+
+========================================
+1.Steps To Convert ER Model To Relational Model
+  - Examples
+========================================
+#resources :
+1- https://www.youtube.com/watch?v=1HguBGdAS-I&list=PL37D52B7714788190&index=11
+
+==========================================
+2.Step 1: Mapping of Regular Entity Types.
+  - working with simple attributes
+  - working with composite attributes
+  - working with the key attributes
+==========================================
+#resources :
+1- b1 --> 323
+
+==========================================
+3.Step 2: Mapping of Weak Entity Types
+  - working with simple attributes
+  - working with composite attributes
+  - working with the key attributes
+==========================================
+#resources :
+1- b1 --> 323
+
+==========================================
+4.Step 3: Mapping of Binary 1:1 Relationship Types
+          1. Foreign key approach
+               - how to choose relation that will have Foreign key
+          2. Merged relation approach
+          3. Cross-reference or relationship relation approach
+               - how to set Foreign and primary keys for that new relation  
+==========================================
+#resources :
+1- b1 --> 324
+
+==========================================
+5.Step 4: Mapping of Binary 1:N Relationship Types.
+          1. The foreign key approach
+		 - how to choose relation that will have Foreign key
+          2.The relationship relation approach
+	         - how to set Foreign and primary keys for that new relation 
+==========================================
+#resources :
+1- b1 --> 325
+
+==========================================
+6.Step 5: Mapping of Binary M:N Relationship Types. 
+           1.The relationship relation approach
+	         - how to set Foreign and primary keys for that new relation 
+==========================================
+#resources :
+1- b1 --> 325
+
+==========================================
+7.Step 6:  Mapping of Multivalued Attributes 
+           1.The relationship relation approach
+	         - how to set Foreign and primary keys for that new relation 
+           2.an array attribute approach rather than requiring a separate table
+==========================================
+#resources :
+1- b1 --> 326
+
+==========================================
+8.
+==========================================
+
+
+==========================================
+9.
+==========================================
+
+
+==========================================
+10.
+==========================================
+
+==========================================
+11.
+==========================================
+
+
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
