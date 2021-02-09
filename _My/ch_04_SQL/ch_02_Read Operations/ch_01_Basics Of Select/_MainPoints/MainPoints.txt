@@ -7,10 +7,10 @@ Read Operations
 #####################################################################
 
 ==========================================
-1.Basic Retrieval Query in SQL ( SELECT-FROM-WHERE Structure )
-     - With One Table :
-            -  projection attributes
-     - With Two Table :
+1.What is The Basic Retrieval Query in SQL ? ( SELECT-FROM-WHERE Structure )
+     - What is The Syntax With One Table :
+            - what are projection attributes
+     - What is The Syntax With Two Table :
             -  selection condition vs join condition
 ==========================================
 #resources :
@@ -19,17 +19,15 @@ Read Operations
 
 ==========================================
 2.Ambiguous Bwtween Attribute Names In Different Tables
-    - Ambiguous Reasons ?
-    - Ambiguous Sol :
-    	- Prefixing Using Relation or Table Name
-    	- Rename Table or Aliases Using AS Keyword
+    - What Are Ambiguous Reasons ?
+    - What Are Ambiguous Sols ?
 ==========================================
 #resources :
 #b1 --> 191
 
 
 ===========================================
-3.- Unspecified WHERE Clause : Retrun All Rows
+3. - Unspecified WHERE Clause : Retrun All Rows
    - Use of the Asterisk : Return All Columns Of The Relations
    - CROSS PRODUCT : When more than one relation is specified in the FROM clause 
 ===========================================
@@ -37,10 +35,9 @@ Read Operations
 1- b1 --> 192
 
 ===========================================
-4.- What Is Mean By Table As Multi-Set ?
-   - reasons of SQL does not automatically eliminate duplicate tuples :
-   - DISTINCT and ALL Keywords
-   - UNION , EXCEPT , INTERSECT Keywords
+4. - What Is Mean By Table As Multi-Set ?
+   - what are reasons of SQL does not automatically eliminate duplicate tuples ?
+   - DISTINCT vs ALL Keywords
 ===========================================
 #resources :
 1- b1 --> 193
@@ -48,22 +45,21 @@ Read Operations
 ===========================================
 5.String and Arithmetic Operators
 - String Operators :
+   - what are the Operators we can use with string ?
 	- LIKE Keyword With % , _
-	- escape character \ 
-        - concatenate operator || 
+        - concatenate operator ||
+   - what is the using of escape character \ 
 - Arithmetic Operators
-        - + , - , * , /
-        - ( BETWEEN -- AND -- ) Keywords
+       - what are the Operators we can use with numbers or for Arithmetic operations ?
 ============================================
 #resources :
 1- b1 --> 195
 
 =============================================
 6.Ordering of Query Results
-	- ORDER BY Keyword 
-		- with one or more attr
-		- The default order
-		- ASC , DESC Keyword
+   - What is The Syntax For Ordering Result
+   - What Are Types Of Ordering ?
+   - What is The Syntax For Ordering Result Depend on One Or Multi Columns
 =============================================
 #resources :
 1- b1 --> 197

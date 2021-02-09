@@ -2,11 +2,14 @@
 
 ========================================
 1.what is join ?
-  - types of join 
-  - Join on three tables  
-  - Using WHERE with Join
-  - Using Group By with Join
-  - Order of execution of a Query
+  - what are types of join 
+  - what is the syntax to Join two tables
+  - Join three or more tables
+      - what is the syntax to Join three tables
+      - what is the order of the tables when we join three tables
+  - give Example To Use WHERE with Join
+  - give Example To Use Group By with Join
+  - what is the General Order For execution the SQL Query
 ========================================
 #resources :
 1- https://www.youtube.com/watch?v=wW4xcQ3FFp4

@@ -10,26 +10,24 @@ Insert , Update , Delete Operations
 ================================================
 1.The INSERT Command
 - used for :
-- first form : insert with all attr
-- second form : insert with some attr
+- What Are Forms Of INSERT Command ?
+   1- first form : insert with all attr
+   2- second form : insert with some attr
 	- the values must include all attributes with NOT NULL specification and no default value
-- third form : insert by select to inserts multiple tuples
-- insert command with integrity constraints problems
+   3- third form : insert by select to inserts multiple tuples
+- what are integrity constraints problems with insert command ?
 - bulk loading tools
-- program to read each record in the file ( loop with insert)
-- CREATE new TABLE , ( create table by select ) so :
-	- new table is a same structure of another table.
-	- insert multi tuples from the old table to the new table 
-              by select query  
-
+   - define bulk loading tools
+- explain overview about loading records from file using programs
 ================================================
 #resources :
 1- b1 --> 198
 
 ==================================================
 2.The DELETE Command
-- first form : delete with where
-- second form : delete all
+- What Are Forms Of DELETE Command ?
+	- first form : delete with where
+	- second form : delete all
 - delete vs drop
 ================================================
 #resources :
@@ -37,8 +35,9 @@ Insert , Update , Delete Operations
 
 ==================================================
 3.The UPDATE Command
-- first form : update with where
-- second form : update all
+- What Are Forms Of UPDATE Command ? 
+	- first form : update with where
+	- second form : update all
 ================================================
 #resources :
 1- b1 --> 200

@@ -22,14 +22,15 @@
 
 ==========================================
 4.- what is attribute ?
-  - types of attributes occur in the ER model ?
-   - Key Attributes 
+  - what are types of attributes in the ER model ?
+  - Key Attributes 
        - what is a key Attribute
-       - a composite attribute 
-       - an entity type can have more than one key attribute
-       - an entity type may also have no key
+       - what is a composite attribute 
+       - what is the number of keys that entity can have
   - Null Values For attributes
+       - what is null mean ? when we use it ?      
   - Value Sets (Domains) of Attributes
+       - what is Value Sets ?
 =========================================='
 #Resources :
 1- Books/Fundamentals of Database Systems--> p94
@@ -43,7 +44,7 @@
                 1- Cardinality Ratios (Max) : what is it ? Types ?
                 2- Participation Constraints (Min): what is it ?  Types ?
              - Attributes of Relationship Types :
-                - where will be Attributes of Relationship Type ( 1 : 1 )
+                - where will be Attributes of Relationship Type ( 1 : 1 ) 
                 - where will be Attributes of Relationship Type ( 1 : N )
                 - where will be Attributes of Relationship Type ( N : M )
 ==========================================
@@ -54,7 +55,7 @@
 6.Weak Entity Types
    - what is it ?
    - what is identifying relationship ? constraint types of it ?  
-   - PARTIAL KEY ?
+   - what is PARTIAL KEY ?
 ==========================================
 #Resources 
 1-Books/Fundamentals of Database Systems--> p110

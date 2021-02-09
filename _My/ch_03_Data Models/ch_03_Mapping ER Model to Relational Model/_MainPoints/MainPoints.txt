@@ -1,7 +1,7 @@
 b1 --> Fundamentals of Database Systems (7th edition)
 
 ========================================
-1.Steps To Convert ER Model To Relational Model
+1.what are the Steps To Convert ER Model To Relational Model
   - Examples
 ========================================
 #resources :
@@ -9,18 +9,18 @@ b1 --> Fundamentals of Database Systems (7th edition)
 
 ==========================================
 2.Step 1: Mapping of Regular Entity Types.
-  - working with simple attributes
-  - working with composite attributes
-  - working with the key attributes
+  - how to handle simple attributes
+  - how to handle composite attributes
+  - how to handle the key attributes
 ==========================================
 #resources :
 1- b1 --> 323
 
 ==========================================
 3.Step 2: Mapping of Weak Entity Types
-  - working with simple attributes
-  - working with composite attributes
-  - working with the key attributes
+  - how to handle simple attributes
+  - how to handle composite attributes
+  - how to handle the key attributes
 ==========================================
 #resources :
 1- b1 --> 323

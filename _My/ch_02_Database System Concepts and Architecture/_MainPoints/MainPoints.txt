@@ -4,7 +4,7 @@
 1.Data Models :
  - What Is Data abstraction
  - What Is Data Model ?
- - Types Or Categories Of Data Models :
+ - What Are Types Or Categories Of Data Models :
 ========================================
 #resources :
 1- Books/Fundamentals of Database Systems--> p63
@@ -17,8 +17,8 @@
   - What Is Instances Or Database State ? 
   - Schemas Vs Instances
   - Explain Three-Schema Architecture
-       - Goals Or Purposes Of Three-Schema Architecture :
-       - Three-Schema Levels : 
+       - What Are Goals Or Purposes Of Three-Schema Architecture :
+       - What Are Three-Schema Levels : 
        - What Is Mean By Mapping Between Schema Levels ?
 ==========================================
 #Resources :
@@ -28,8 +28,8 @@
 
 ==========================================
 3.Data Independence
-  - What Is Data Independence ?
-  - Types Of Data Independence :
+  - Define Data Independence ?
+  - What Are Types Of Data Independence :
 ==========================================
 #Resources :
 1- Books/Fundamentals of Database Systems--> p68
@@ -37,11 +37,7 @@
 
 ==========================================
 4.Database Languages
-  - DDL
-  - SDL
-  - VDL
-  - MDL
-  - SQL
+   - List And Define Types Of Database Languages
 ==========================================
 #Resources :
 1- Books/Fundamentals of Database Systems--> p69
@@ -68,7 +64,7 @@
 2- Courses/Course_DR_Moh_Eldosokey/ch2-->p26
 
 ==========================================
-7.Classification of Database Management Systems
+7.Explain Classification of Database Management Systems
 1-based on data model
 2-based on the number of users supported by the system
 3-based on number of sites : - Homogeneous vs Heterogeneous

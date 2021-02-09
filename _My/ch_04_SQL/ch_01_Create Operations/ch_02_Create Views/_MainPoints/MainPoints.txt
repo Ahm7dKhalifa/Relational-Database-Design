@@ -2,15 +2,15 @@
 
 ========================================
 1.what is view ?
- - SQL Syntax To : CREATE VIEW
- - Types of Views
- - SQL Syntax To : Updating a View
- - SQL Syntax To : Dropping a View
- - ( Insert - Update - Delete ) Data --> From View
+ - what is Syntax To : CREATE VIEW ?
+ - what are Types of Views
+ - what is Syntax To : Updating a View
+ - what is Syntax To : Dropping a View
+ - explain how to ( Insert - Update - Delete ) Data --> From View
  - Indexes Views :
-       - When it created
-       - restriction and limitations when you create an indexed view.
-       - syntax 
+       - When or how it created
+       - what are restrictions and limitations when you create an indexed view.
+       - what is syntax to create an indexed view 
 ========================================
 #resources :
 1- https://www.youtube.com/watch?v=VQpmOmZO2mo

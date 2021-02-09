@@ -2,15 +2,15 @@
 
 ========================================
 1.what is triggers ?
-  - types of triggers
+  - what are types of triggers
       - when every trigger is fire
-      - commands that used with every type
-  - syntax 
-  - Enabling and disabling triggers
+      - what are commands that used with every type
+  - what is syntax to create triggers 
+  - how to Enable and disable triggers
   - triggers order for same table or object
-      - default case with no order 
+      - what is default or first trigger fire when we have more than trigger in the same object 
       - how to set order of triggers
-  - “Virtual” tables for triggers: INSERTED and DELETED
+  - what are the “Virtual” tables that used with triggers ( INSERTED and DELETED ) ?
 ========================================
 #resources :
 1- https://www.youtube.com/watch?v=k0S4P-a6d5w

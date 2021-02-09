@@ -3,12 +3,12 @@
 
 ========================================
 1.Group By
-  - Used For
-  - Syntax
-  - With One Column
-  - With Multi Column
+  - Used For ?
+  - Explain Syntax :
+  	- With One Column
+  	- With Multi Column
   - Where VS Having
-  - Group By With Null Values
+  - How Group By Handle Null Values on The Columns That Used With Group By
 ========================================
 1- https://www.youtube.com/watch?v=FKSSOpQe5Jc
 2- https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns

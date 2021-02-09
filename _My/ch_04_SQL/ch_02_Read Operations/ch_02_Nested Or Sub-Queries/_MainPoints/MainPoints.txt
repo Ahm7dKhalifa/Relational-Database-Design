@@ -2,14 +2,13 @@
 
 ========================================
 1.what is Nested Queries ?
-   - which are sql clauses we can use nested query with them ?
-   - types of return from nested query  
+   - what are sql clauses we can use nested query with them ?
+   - what are types of result that returned from nested query  
    - comparison operators with multi return values
-       - ALL keyword 
-       - SOME , ANY Keywords  
+       - ALL keyword Vs SOME , ANY Keywords  
    -  ambiguity between attribute names in nested and outer quries 
         - what is the rule : innermost nested query ?
-        - solve ambiguity using as keyword 
+        - how to solve ambiguity using as keyword 
 ========================================
 #resources :
 1- b1 --> 241
@@ -21,14 +20,14 @@
 1- b1 --> 243 
 
 ==========================================
-3.Sub-Qurery Types ( Where Will Be Can Use it in Sql ) 
+3.Sub-Qurery Types ( Where Will Be Can Use Sub-Qurery ) 
 ==========================================
 #resources :
 1- https://www.sqlservertutorial.net/sql-server-basics/sql-server-subquery/
 2- https://www.techonthenet.com/sql_server/subqueries.php
 
 ==========================================
-4.number of levels of nested queries in SQL Server supports
+4.what is the number of levels of nested queries in SQL Server that can supports ?
 ==========================================
 #resources :
 #Q/A --> 3
