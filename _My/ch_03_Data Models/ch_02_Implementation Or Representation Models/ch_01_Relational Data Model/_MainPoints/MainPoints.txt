@@ -25,9 +25,9 @@
 ==========================================
 
 ==========================================
-4.What Are Constraints of Relations (Relational Integrity Constraints)
+4.Constraints of Relations (Relational Integrity Constraints)
   - Define Constraints of Relations
-  - List Types Of Constraints  
+  - List And Define Types Of The Constraints  
   	- Domain Constraints
   	- Key Constraints
        		- Key Vs SuperKeys

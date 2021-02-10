@@ -25,22 +25,24 @@
   - what are types of attributes in the ER model ?
   - Key Attributes 
        - what is a key Attribute
-       - what is a composite attribute 
+       - what is a composite Key attribute 
        - what is the number of keys that entity can have
   - Null Values For attributes
        - what is null mean ? when we use it ?      
   - Value Sets (Domains) of Attributes
-       - what is Value Sets ?
+       - what is Value Sets or Domains of Attributes ?
 =========================================='
 #Resources :
 1- Books/Fundamentals of Database Systems--> p94
 
 ==========================================
-5.what is    - Relationship 
-             - The Degreee of Relationship : binary Relationship , ternary Relationship 
+5.what is    - Relationship ?
+             - The Degreee of Relationship ?
+                     - Define and give example for binary Relationship
+                     - Define and give example for Ternary Relationship 
              - Recursive Relationships
              - Role Names
-             - Constraints on Binary Relationship Types :
+             - The Constraints on Binary Relationship Types ?
                 1- Cardinality Ratios (Max) : what is it ? Types ?
                 2- Participation Constraints (Min): what is it ?  Types ?
              - Attributes of Relationship Types :
@@ -54,7 +56,7 @@
 ==========================================
 6.Weak Entity Types
    - what is it ?
-   - what is identifying relationship ? constraint types of it ?  
+   - what is identifying relationship ? type of Participation Constraints for this relation ? 
    - what is PARTIAL KEY ?
 ==========================================
 #Resources 
