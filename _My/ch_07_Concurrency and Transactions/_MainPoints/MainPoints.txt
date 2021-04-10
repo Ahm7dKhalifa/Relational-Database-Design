@@ -1,5 +1,6 @@
 
-
+#b1 --> Fundamentals of Database Systems (7th edition) book
+#c1 --> Courses\Course_DR_Moh_Eldosokey\Fundamentals of Database Systems
 ========================================
 1.transaction
   - What is transaction ?
@@ -39,21 +40,56 @@ resources :
 5- https://stackoverflow.com/questions/4034976/difference-between-read-commited-and-repeatable-read
 6- https://logicalread.com/sql-server-concurrency-nonrepeatable-reads-w01/#.YGQh068zbIU
 7- https://www.youtube.com/watch?v=d5QNpsezNTs
+
 =========================================
-4.
+4.locks 
+  - define what is the lock ?
+  - what are the types of resources that locks can protect them ?
+  - what are the types or modes of locks ?
 ==========================================
+resources :
+1- https://blog.coeo.com/overview-of-locks-in-sql-server
+2- https://www.sqlshack.com/locking-sql-server/
+3- https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide?view=sql-server-ver15
+4- https://codingsight.com/main-concept-of-sql-server-locking/
+5- https://www.c-sharpcorner.com/article/locks-in-sql-server/
+6- https://www.youtube.com/watch?v=wZRvVLwUb04
+
+==========================================
+5.concurrency control
+ - what are types of concurrency control protocols or Techniques ?
+==========================================
+resources :
+1- b1 --> p 812
 
 
 ==========================================
-5.
-==========================================
-
-
-==========================================
-6.
-==========================================
-
-
+6.Two-Phase Locking Techniques for Concurrency Control
+  - define lock , unlock ?
+  - explain different types of locks ?
+  - what is the lock table ? and what is it contain ?
+  - explain problems or side effects of locks ? and how to solve them ?
+     1- deadlocks :
+        - what is deadlock ?
+        - how dbms find deadlocks ?
+        - what happen when dbms detect deadlocks ?
+        - explain deadlock priority ?
+              - explain different methods to set deadlock priority for every transaction ?
+        - how to find and resolve deadlocks ?
+     2- blocking query :
+        - what is the blocking query ?
+        - how to find them ?
+        - how to resolve them ?
+=========================================
+resources :
+1- c1--> ch-22
+2- https://www.youtube.com/watch?v=7qUBV2bAbsQ
+3- https://www.youtube.com/watch?v=GYADk9TtS88
+4- https://docs.microsoft.com/en-us/troubleshoot/sql/performance/understand-resolve-blocking
+5- https://www.sentryone.com/sql-server/sql-server-blocking
+6- https://www.wearediagram.com/blog/sql-server-locks-blocked-processes-and-two-easy-ways-to-find-them
+7- https://www.youtube.com/watch?v=BSiQi1b5VZY
+8- https://www.youtube.com/watch?v=hATX1eWj78o
 ==========================================
 7.
 ==========================================
