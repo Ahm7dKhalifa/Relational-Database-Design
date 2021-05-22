@@ -9,7 +9,9 @@
 #resources :
 1- Books/Fundamentals of Database Systems--> p63
 2- Courses/Course_DR_Moh_Eldosokey/ch2-->p4,5
-
+3- https://www.guru99.com/data-modelling-conceptual-logical.html
+4- https://opentextbc.ca/dbdesign01/chapter/chapter-4-types-of-database-models/
+5- https://en.m.wikipedia.org/wiki/Data_modeling
 
 ==========================================
 2.Schemas, Instances and Database State
