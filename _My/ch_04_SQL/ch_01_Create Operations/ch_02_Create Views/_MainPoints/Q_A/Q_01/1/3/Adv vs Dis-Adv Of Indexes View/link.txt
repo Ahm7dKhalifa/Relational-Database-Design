@@ -1,1 +1,0 @@
-https://www.sqlshack.com/sql-server-indexed-views/
