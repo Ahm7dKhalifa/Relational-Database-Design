@@ -61,9 +61,22 @@ resources :
 ==========================================
 resources :
 1- b1 --> p 812
-
-
-==========================================
+2- https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking
+3- https://support.unicomsi.com/manuals/soliddb/7/index.html#page/SQL_Guide/5_ManagingTransactions.06.4.html
+4- https://www.microsoftpressstore.com/articles/article.aspx?p=2233327&seqNum=3
+5- https://agirlamonggeeks.com/2017/02/23/optimistic-concurrency-vs-pessimistic-concurrency-short-comparison/
+6- https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide?view=sql-server-ver15
+7- https://www.embeddedcomputing.com/technology/storage/pessimistic-optimistic-generic-ref-to-images
+8- https://m.youtube.com/watch?v=jQarp7R2hhU
+9- https://docs.microsoft.com/en-us/sql/relational-databases/performance-monitor/sql-server-locks-object?view=sql-server-ver15
+10- https://www.sqlshack.com/locking-sql-server/
+11- https://www.c-sharpcorner.com/article/locks-in-sql-server/
+12- https://blog.coeo.com/overview-of-locks-in-sql-server
+13- https://vladmihalcea.com/optimistic-vs-pessimistic-locking/
+14- https://logicalread.com/sql-server-concurrency-models-mc03/#.YVmeQLgzbIV
+15- https://docs.microsoft.com/en-us/ef/core/saving/concurrency
+16- https://www.geeksforgeeks.org/transaction-isolation-levels-dbms/
+=========================================
 6.Two-Phase Locking Techniques for Concurrency Control
   - define lock , unlock ?
   - explain different types of locks ?
